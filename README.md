@@ -1,6 +1,6 @@
 # GenXCoding-YouTube
 
-This repository contains code from the GenXCoding YouTube channel, which features Python programming tutorials and projects.
+This repository contains code from the GenX Coding YouTube channel, which features Python programming tutorials and projects.
 
 ## Topics Covered
 
@@ -24,4 +24,5 @@ Follow the YouTube tutorial for details.
 
 ## Connect
 
-YouTube: https://www.youtube.com/@genxcoding55
+- **YouTube**: [GenX Coding](https://www.youtube.com/@genxcoding55)
+- **GitHub:** [Aakanksha-Mandal](https://github.com/Aakanksha-Mandal)
